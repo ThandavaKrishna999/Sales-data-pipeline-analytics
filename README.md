@@ -91,8 +91,7 @@ The dashboard includes:
 
 sales_pipeline/
  ├── data/
- │    ├── raw/
- │    └── processed/
+ │    ├── raw/    
  ├── scripts/
  │    ├── process_data.py
  │    └── load_to_sql.py
