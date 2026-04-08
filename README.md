@@ -76,6 +76,10 @@ The dashboard includes:
 - Region-wise analysis
 - Profitability insights
 
+📊 Dashboard (Power BI) Preview
+
+![Dashboard](Dashboard/dashboard.png)
+
 ---
 
 💡 Key Insights
